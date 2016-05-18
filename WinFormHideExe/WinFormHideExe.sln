@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormHideExe", "WinFormHideExe\WinFormHideExe.csproj", "{9714A7C5-0B5C-4287-B1BC-CD7D0F976111}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test01", "Test01\Test01.csproj", "{351223C7-A4B9-4F3B-AB83-48C15CA6FFFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9714A7C5-0B5C-4287-B1BC-CD7D0F976111}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9714A7C5-0B5C-4287-B1BC-CD7D0F976111}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9714A7C5-0B5C-4287-B1BC-CD7D0F976111}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9714A7C5-0B5C-4287-B1BC-CD7D0F976111}.Release|Any CPU.Build.0 = Release|Any CPU
+		{351223C7-A4B9-4F3B-AB83-48C15CA6FFFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{351223C7-A4B9-4F3B-AB83-48C15CA6FFFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{351223C7-A4B9-4F3B-AB83-48C15CA6FFFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{351223C7-A4B9-4F3B-AB83-48C15CA6FFFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
