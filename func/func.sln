@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "func", "func\func.csproj", "{5223870D-15F1-4C91-8986-D7A65F311C6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "funcexe", "funcexe\funcexe.csproj", "{5189672D-F271-4B4A-A993-97A4E52399D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5223870D-15F1-4C91-8986-D7A65F311C6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5223870D-15F1-4C91-8986-D7A65F311C6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5223870D-15F1-4C91-8986-D7A65F311C6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5223870D-15F1-4C91-8986-D7A65F311C6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5189672D-F271-4B4A-A993-97A4E52399D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5189672D-F271-4B4A-A993-97A4E52399D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5189672D-F271-4B4A-A993-97A4E52399D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5189672D-F271-4B4A-A993-97A4E52399D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
